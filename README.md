@@ -26,6 +26,10 @@ Mempool can be conveniently installed on the following full-node distros:
 
 **We highly recommend you deploy your own Mempool instance this way.** No matter which option you pick, you'll be able to get your own fully-sovereign instance of Mempool up quickly without needing to fiddle with any settings. -->
 
+## Platform-Specific Installation Guides
+
+- **macOS**: See [`INSTALL_MAC.md`](./INSTALL_MAC.md) for comprehensive macOS installation instructions including Docker and manual setup methods.
+
 ## Advanced Installation Methods
 
 Litepool can be installed in other ways too, but we only recommend doing so if you're a developer, have experience managing servers, or otherwise know what you're doing.
